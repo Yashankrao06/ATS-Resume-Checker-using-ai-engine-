@@ -1,0 +1,6 @@
+{
+  "name": "AI ATS Resume Checker & Grader",
+  "description": "Enterprise-grade ATS resume checker, parsability scorer, impact and brevity analyzer, and job description keyword matcher powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
